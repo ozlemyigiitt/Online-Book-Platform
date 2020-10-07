@@ -1,1 +1,1 @@
-# Online-Book-Platform
+Bu proje Taner Sancaklı ile birlikte yapılmıştır.
